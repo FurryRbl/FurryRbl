@@ -1,33 +1,23 @@
-<h1 align="center">锐 冰龙</h1>
-<h3 align="center">Why do you write this?</h3>
+<h1
+对齐+"中心">列分</小时 1> <h3 对齐+"中心">你为什么写这个？
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=furryrbl&label=%E8%AE%BF%E5%AE%A2&color=00ffff&style=flat" alt="furryrbl" /> </p>
+</h3><p al "左"> <img src="https://komarev.com/ghpvc/?username=furryrbl&label=%E8%AE%BF%E5%AE%A2&color=00ffff&style=flat"alt="毛茸茸
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furryrbl" alt="furryrbl" /></a> </p>
+"/> </p><p对齐]"左"> <一个href="https://github.com/ryo-ma/github-profile-trophy">< https://github.com/ryo-ma/github-profile-trophy img src= "https://github-profile-trophy.vercel.app/?username=furryrbl" alt = "毛茸茸的" / >< / a> < / p>
 
-- 锐冰工具箱 **(基于Lua和部分Java)**
+- 夏普西图尔 [夏普图尔] （https://github.com/FurryRbl/SharpIceTool）
 
-- 赞助我 [https://afdian.net/@HyunCloud](https://afdian.net/@HyunCloud)
+- [https://afdian.net/@HyunCloud] （https://afdian.net/@HyunCloud）
 
-- 个人博客 [https://furryvup.ml](https://furryvup.ml)
+- **VupRbl@Gmail.com**<h3
 
-- 电子邮件 **VupRbl@gmail.com**
 
-- 个人简历 [https://furryvup.ml/jl.html](https://furryvup.ml/jl.html)
+对齐]"左">语法和工具
+：</h3><p对齐]"左"> <一个href="https://developer.android.com"目标="_blank"> <https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"alt="机器人"宽度="40"高度="40"/> </a><https://www.blender.org/"目标="_blank "> <img src= "https://download.blender.org/branding/community/blender_community_badge_white.svg" alt = "混血"宽度 = "40" 高度 = "40" /> </a>< href= "https://git-scm.com/" 目标= "_blank" > <im g src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt = "git" 宽度 = "40" 高度 = "40" /> </a>< href= "https://www.java.com" 目标="_blank"> <img src https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg= "alt="java"宽度="40"高度="40"/> </a><https://www.linux.org/"目标="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"alt= "linux" 宽度 = "40" 高度 = "40" /> </a>< 一个 href= "https://www.photoshop.com/en" 目标= "_blank" > <img s "https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"alt="照片店"宽度="40"
 
-- 感兴趣内容,但并不代表我精通和熟悉 **Java,Lua,Blender,Android,Cute painting**
+高度="40"/> </a></p><p><img 对齐="左"src="https://github-readme-stats.vercel.app/api/top-langs?username=furryrbl&show_icons=true&theme=dark&hide_border=true&locale=cn&layout=compact"alt="
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/dwYkfADPBn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="dwYkfADPBn" height="30" width="40" /></a>
-</p>
+毛茸茸"/></p><p>=<img对齐]"中心" src = "https://github-readme-stats.vercel.app/api?username=furryrbl&show_icons=true&theme=dark&hide_border=true&locale=cn" alt = "毛茸茸的" / >< / p >
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furryrbl&show_icons=true&theme=dark&hide_border=true&locale=cn&layout=compact" alt="furryrbl" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furryrbl&show_icons=true&theme=dark&hide_border=true&locale=cn" alt="furryrbl" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furryrbl&theme=dark" alt="furryrbl" /></p>
+< p ><img 对齐] "中心" src = "https://github-readme-streak-stats.herokuapp.com/?user=furryrbl&theme=dark" alt=毛茸茸的" /></p>
 
