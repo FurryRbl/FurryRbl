@@ -38,8 +38,17 @@
 
 ### <div align="center"> Language </div>
 
-<div align="center"> <img src="https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java" /> <img src="https://img.shields.io/badge/CSharp_Core-6.0-blue?style=for-the-badge&logo=CSharp" /> </div>
+<div align="center"> <img src="https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java" /> <img src="https://img.shields.io/badge/CSharp-blue?style=for-the-badge&logo=CSharp" /> <img src="https://img.shields.io/badge/Lua-blue?style=for-the-badge&logo=Lua" /> </div>
 
 ### <div align="center"> Code IDE </div>
-<div align="center"> <img src="https://img.shields.io/badge/Visual_Studio-2022-blue?style=for-the-badge&logo=VisualStudio" /> <img src="https://img.shields.io/badge/Visual_Studio-Code-blue?style=for-the-badge&logo=VisualStudioCode" /> <img src="https://img.shields.io/badge/IntelliJ_IDEA-2022-blue?style=for-the-badge&logo=IntelliJIDEA" /> </div>
 
+<div align="center"> <img src="https://img.shields.io/badge/Visual_Studio-2022-blue?style=for-the-badge&logo=VisualStudio" /> <img src="https://img.shields.io/badge/Visual_Studio-_Code-blue?style=for-the-badge&logo=VisualStudioCode" /> <img src="https://img.shields.io/badge/IntelliJ_IDEA-blue?style=for-the-badge&logo=IntelliJIDEA" /> <img src="https://img.shields.io/badge/vim-blue?style=for-the-badge&logo=vim" /> </div>
+
+### <div align="center"> OS </div>
+
+<div align="center"> <img src="https://img.shields.io/badge/Windows-10-blue?style=for-the-badge&logo=Windows" /> <img src="https://img.shields.io/badge/ArchLinux-blue?style=for-the-badge&logo=archlinux" /> <img src="https://img.shields.io/badge/Fedora-35-blue?style=for-the-badge&logo=Fedora" /> <img src="https://img.shields.io/badge/Android-11-blue?style=for-the-badge&logo=Android" /> </div>
+
+
+### <div align="center"> Tools </div>
+
+<div align="center"> <img src="https://img.shields.io/badge/Bledner-blue?style=for-the-badge&logo=Blender" /> <img src="https://img.shields.io/badge/Unity-blue?style=for-the-badge&logo=Unity" /> <img src="https://img.shields.io/badge/yarn-blue?style=for-the-badge&logo=yarn" /> <img src="https://img.shields.io/badge/Gradle-blue?style=for-the-badge&logo=Gradle" /> <img src="https://img.shields.io/badge/Gradle-blue?style=for-the-badge&logo=Gradle" /> <img src="https://img.shields.io/badge/NodeJS-blue?style=for-the-badge&logo=node.js" /> <img src="https://img.shields.io/badge/Firefox_Developer-blue?style=for-the-badge&logo=FireFox" /> </div>
