@@ -40,6 +40,10 @@
 
 <div align="center"> <img src="https://img.shields.io/badge/Yarn-blue?style=for-the-badge&logo=Yarn" /> <img src="https://img.shields.io/badge/Gradle-blue?style=for-the-badge&logo=Gradle" /> <img src="https://img.shields.io/badge/DotNet-blue?style=for-the-badge&logo=DotNet" /> </div>
 
+### <div align="center"> 其他信息 </div>
+
+<div align="center"> 我可以使用有限的时间和技术为大家制作免费的Minecraft 渲染图 </div>
+
 ### <div align="center"> 其他有用的链接 </div>
 
 <div align="center"> <a href="https://sharpie.top">个人网站</a> <a href="https://afdian.net/a/SharpIce">爱发电</a> </div>
