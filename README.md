@@ -46,4 +46,4 @@
 
 ### <div align="center"> 其他有用的链接 </div>
 
-<div align="center"> <a href="https://sharpie.top">个人网站</a> <a href="https://afdian.net/a/SharpIce">爱发电</a> </div>
+<div align="center"> <a href="https://sharpice.top">个人网站</a> <a href="https://afdian.net/a/SharpIce">爱发电</a> </div>
