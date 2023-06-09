@@ -4,15 +4,9 @@
 
 <div align="center"> 我希望你了解我，我是一只Furry，喜欢艺术和编程~ </div>
 
-## <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hello%20Word%22);Hello%20Word&center=true&size=27"> </a> </h1>
-
 ### <div align="center"> GitHub 语言统计 </div>
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurryRbl&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
-
-### <div align="center"> Github主页访客统计 </div>
-
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=FurryRbl" /></div>
 
 ### <div align="center"> 我使用的开发语言 </div>
 
