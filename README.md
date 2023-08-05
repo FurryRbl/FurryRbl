@@ -12,11 +12,13 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/CSharp-blue?style=for-the-badge&logo=CSharp" />
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/CSharp-7.0-purple?style=for-the-badge&logo=CSharp" />
+  <img src="https://img.shields.io/badge/Python-3.10-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript" />
 </div>
 
-### <div align="center"> 我使用的IDE </div>
+### <div align="center"> 我使用的IDE/文本编辑器 </div>
 
 <div align="center"> <img src="https://img.shields.io/badge/Visual_Studio-2022-blue?style=for-the-badge&logo=VisualStudio" /> <img src="https://img.shields.io/badge/Visual_Studio-_Code-blue?style=for-the-badge&logo=VisualStudioCode" /> <img src="https://img.shields.io/badge/IntelliJ_IDEA-blue?style=for-the-badge&logo=IntelliJIDEA" /> <img src="https://img.shields.io/badge/vim-blue?style=for-the-badge&logo=vim" /> <img src="https://img.shields.io/badge/neovim-blue?style=for-the-badge&logo=neovim" /> </div>
 
