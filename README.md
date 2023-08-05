@@ -10,11 +10,11 @@
 
 ### <div align="center"> 我使用的开发语言 </div>
 
-<div align="center"> <img src="https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java" /> <img src="https://img.shields.io/badge/CSharp-blue?style=for-the-badge&logo=CSharp" /> </div>
-
-### <div align="center"> 我不经常使用的开发语言 </div>
-
-<div align="center"> <img src="https://img.shields.io/badge/Lua-blue?style=for-the-badge&logo=Lua" /> <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" /> </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/CSharp-blue?style=for-the-badge&logo=CSharp" />
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
+</div>
 
 ### <div align="center"> 我使用的IDE </div>
 
@@ -34,10 +34,6 @@
 
 <div align="center"> <img src="https://img.shields.io/badge/Yarn-blue?style=for-the-badge&logo=Yarn" /> <img src="https://img.shields.io/badge/Gradle-blue?style=for-the-badge&logo=Gradle" /> <img src="https://img.shields.io/badge/DotNet-blue?style=for-the-badge&logo=DotNet" /> </div>
 
-### <div align="center"> 其他信息 </div>
-
-<div align="center"> 我可以使用有限的时间和技术为大家制作免费的Minecraft 渲染图 </div>
-
-### <div align="center"> 其他有用的链接 </div>
+### <div align="center"> 相关链接 </div>
 
 <div align="center"> <a href="https://sharpice.top">个人网站</a> <a href="https://afdian.net/a/SharpIce">爱发电</a> </div>
