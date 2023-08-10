@@ -27,7 +27,7 @@
 <div align="center"> <img src="https://img.shields.io/badge/Windows-10-blue?style=for-the-badge&logo=Windows" /> <img src="https://img.shields.io/badge/ArchLinux-blue?style=for-the-badge&logo=archlinux" /> <img src="https://img.shields.io/badge/Android-11-blue?style=for-the-badge&logo=Android" /> </div>
 
 
-### <div align="center"> 我使用的开源工具 </div>
+### <div align="center"> 我使用的开源r工具 </div>
 
 <div align="center"> <img src="https://img.shields.io/badge/Bledner-blue?style=for-the-badge&logo=Blender" /> <img src="https://img.shields.io/badge/Firefox_Developer-blue?style=for-the-badge&logo=FireFox" /> <img src="https://img.shields.io/badge/Gimp-blue?style=for-the-badge&logo=Gimp" /> <img src="https://img.shields.io/badge/Krita-blue?style=for-the-badge&logo=Krita" />  <img src="https://img.shields.io/badge/Inkscape-blue?style=for-the-badge&logo=Inkscape" /> </div>
 
