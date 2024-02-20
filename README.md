@@ -1,40 +1,60 @@
-# <div align="center"> 你好 👋 </div>
-
-<div align="center"> 欢迎来到我的GitHub 主页 </div>
-
-<div align="center"> 我希望你了解我，我是一只Furry，喜欢艺术和编程~ </div>
-
-### <div align="center"> GitHub 语言统计 </div>
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurryRbl&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
-
-### <div align="center"> 我使用的开发语言 </div>
+<!-- markdownlint-disable MD033 MD041 -->
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/CSharp-7.0-purple?style=for-the-badge&logo=CSharp" />
-  <img src="https://img.shields.io/badge/Python-3.10-yellow?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript" />
+  <h1>你好 👋</h1>
+  <p>欢迎来到我的GitHub主页</p>
+  <p>我是一只Furry，喜欢艺术和编程~</p>
+
+  <div>
+    <h2>GitHub 语言统计</h2>
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurryRbl&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"
+      alt="GitHub 语言统计" />
+  </div>
+
+  <div>
+    <h2>我使用的开发语言</h2>
+    <img src="https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=Java" alt="Java 17" />
+    <img src="https://img.shields.io/badge/CSharp-8.0-purple?style=for-the-badge&logo=CSharp" alt="CSharp 8.0" />
+    <img src="https://img.shields.io/badge/Python-3.12-yellow?style=for-the-badge&logo=Python" alt="Python 3.12" />
+    <img src="https://img.shields.io/badge/JavaScript-ES14-yellow?style=for-the-badge&logo=JavaScript" alt="JavaScript ES14" />
+  </div>
+
+  <div>
+    <h2>我使用的IDE/文本编辑器</h2>
+    <img src="https://img.shields.io/badge/Visual_Studio-2022-blue?style=for-the-badge&logo=VisualStudio" alt="Visual Studio 2022" />
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-blue?style=for-the-badge&logo=VisualStudioCode" alt="Visual Studio Code" />
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-blue?style=for-the-badge&logo=IntelliJIDEA" alt="IntelliJ IDEA" />
+    <img src="https://img.shields.io/badge/Vim-blue?style=for-the-badge&logo=Vim" alt="Vim" />
+    <img src="https://img.shields.io/badge/NeoVim-blue?style=for-the-badge&logo=NeoVim" alt="NeoVim" />
+  </div>
+
+  <div>
+    <h2>我使用的操作系统</h2>
+    <img src="https://img.shields.io/badge/Windows-10-blue?style=for-the-badge&logo=Windows" alt="Windows 10" />
+    <img src="https://img.shields.io/badge/ArchLinux-blue?style=for-the-badge&logo=ArchLinux" alt="ArchLinux" />
+    <img src="https://img.shields.io/badge/Android-11-blue?style=for-the-badge&logo=Android" alt="Android 11" />
+  </div>
+
+  <div>
+    <h2>我使用的开源软件</h2>
+    <img src="https://img.shields.io/badge/Blender-blue?style=for-the-badge&logo=Blender" alt="Blender" />
+    <img src="https://img.shields.io/badge/Firefox_Developer_Edition-blue?style=for-the-badge&logo=FireFox" alt="Firefox Developer Edition" />
+    <img src="https://img.shields.io/badge/Gimp-blue?style=for-the-badge&logo=Gimp" alt="Gimp" />
+    <img src="https://img.shields.io/badge/Krita-blue?style=for-the-badge&logo=Krita" alt="Krita" />
+    <img src="https://img.shields.io/badge/Inkscape-blue?style=for-the-badge&logo=Inkscape" alt="Inkscape" />
+  </div>
+
+  <div>
+    <h2>我使用的其他编程工具</h2>
+    <img src="https://img.shields.io/badge/Yarn-blue?style=for-the-badge&logo=Yarn" alt="Yarn" />
+    <img src="https://img.shields.io/badge/Gradle-blue?style=for-the-badge&logo=Gradle" alt="Gradle" />
+    <img src="https://img.shields.io/badge/DotNet-blue?style=for-the-badge&logo=DotNet" alt="DotNet" />
+  </div>
+
+  <div>
+    <h2>相关链接</h2>
+    <a href="https://sharpice.top">个人网站</a>
+    <a href="https://afdian.net/a/SharpIce">爱发电</a>
+  </div>
 </div>
-
-### <div align="center"> 我使用的IDE/文本编辑器 </div>
-
-<div align="center"> <img src="https://img.shields.io/badge/Visual_Studio-2022-blue?style=for-the-badge&logo=VisualStudio" /> <img src="https://img.shields.io/badge/Visual_Studio-_Code-blue?style=for-the-badge&logo=VisualStudioCode" /> <img src="https://img.shields.io/badge/IntelliJ_IDEA-blue?style=for-the-badge&logo=IntelliJIDEA" /> <img src="https://img.shields.io/badge/vim-blue?style=for-the-badge&logo=vim" /> <img src="https://img.shields.io/badge/neovim-blue?style=for-the-badge&logo=neovim" /> </div>
-
-### <div align="center"> 我使用的操作系统 </div>
-
-<div align="center"> <img src="https://img.shields.io/badge/Windows-10-blue?style=for-the-badge&logo=Windows" /> <img src="https://img.shields.io/badge/ArchLinux-blue?style=for-the-badge&logo=archlinux" /> <img src="https://img.shields.io/badge/Android-11-blue?style=for-the-badge&logo=Android" /> </div>
-
-
-### <div align="center"> 我使用的开源软件 </div>
-
-<div align="center"> <img src="https://img.shields.io/badge/Bledner-blue?style=for-the-badge&logo=Blender" /> <img src="https://img.shields.io/badge/Firefox_Developer-blue?style=for-the-badge&logo=FireFox" /> <img src="https://img.shields.io/badge/Gimp-blue?style=for-the-badge&logo=Gimp" /> <img src="https://img.shields.io/badge/Krita-blue?style=for-the-badge&logo=Krita" />  <img src="https://img.shields.io/badge/Inkscape-blue?style=for-the-badge&logo=Inkscape" /> </div>
-
-
-### <div align="center"> 我使用的其他编程工具 </div>
-
-<div align="center"> <img src="https://img.shields.io/badge/Yarn-blue?style=for-the-badge&logo=Yarn" /> <img src="https://img.shields.io/badge/Gradle-blue?style=for-the-badge&logo=Gradle" /> <img src="https://img.shields.io/badge/DotNet-blue?style=for-the-badge&logo=DotNet" /> </div>
-
-### <div align="center"> 相关链接 </div>
-
-<div align="center"> <a href="https://sharpice.top">个人网站</a> <a href="https://afdian.net/a/SharpIce">爱发电</a> </div>

@@ -1,0 +1,36 @@
+{
+	"name": "name",
+	"version": "1.0.0",
+	"description": "描述",
+	"type": "module",
+	"license": "MPL-2.0",
+	"private": true,
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/FurryRbl/template.git"
+	},
+	"homepage": "https://github.com/FurryRbl/template",
+	"bugs": {
+		"url": "https://github.com/FurryRbl/template/issues"
+	},
+	"author": {
+		"name": "SharpIce",
+		"email": "VupRbl@163.com",
+		"url": "https://SharpIce.top"
+	},
+	"engines": {
+		"node": ">=18"
+	},
+	"scripts": {
+		"lint": "eslint --fix .",
+		"pre": "prettier . --write",
+		"clean": "rimraf build/"
+	},
+	"devDependencies": {
+		"eslint": "^8.48.0",
+		"eslint-config-prettier": "^9.0.0",
+		"eslint-plugin-prettier": "^5.0.0",
+		"prettier": "^3.0.2",
+		"rimraf": "^5.0.1"
+	}
+}
