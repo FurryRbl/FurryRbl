@@ -15,7 +15,7 @@
   <div>
     <h2>GitHub 统计数据</h2>
     <img
-      src="github-readme-stats.vercel.app/api?username=FurryRbl&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=ambient_gradient&locale=cn&hide_border=true&card_width=580&show_icons=true"
+      src="https://github-readme-stats.vercel.app/api?username=FurryRbl&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=ambient_gradient&locale=cn&hide_border=true&card_width=580&show_icons=true"
       alt="统计数据" />
   </div>
 
