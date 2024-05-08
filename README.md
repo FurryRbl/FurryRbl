@@ -8,8 +8,15 @@
   <div>
     <h2>GitHub 语言统计</h2>
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurryRbl&hide_border=true&layout=compact&langs_count=12&theme=ambient_gradient&card_width=480"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurryRbl&hide_border=true&layout=compact&langs_count=12&theme=ambient_gradient&card_width=480&locale=cn"
       alt="GitHub 语言统计" />
+  </div>
+
+  <div>
+    <h2>GitHub 统计数据</h2>
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=FurryRbl&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=ambient_gradient&locale=cn&hide_border=true&card_width=580"
+      alt="统计数据" />
   </div>
 
   <div>
