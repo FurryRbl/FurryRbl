@@ -21,7 +21,7 @@
 
   <div>
     <h2>我使用的开发语言</h2>
-    <img src="https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=Java" alt="Java 17" />
+    <img src="https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=Java" alt="Java 21" />
     <img src="https://img.shields.io/badge/CSharp-8.0-purple?style=for-the-badge&logo=CSharp" alt="CSharp 8.0" />
     <img src="https://img.shields.io/badge/Python-3.12-yellow?style=for-the-badge&logo=Python" alt="Python 3.12" />
     <img src="https://img.shields.io/badge/JavaScript-ES14-yellow?style=for-the-badge&logo=JavaScript" alt="JavaScript ES14" />
