@@ -61,7 +61,8 @@
 
   <div>
     <h2>相关链接</h2>
-    <a href="https://sharpice.top">个人网站</a>
+    <a href="https://sharpice.top">个人主页</a>
+    <a href="https://blog.sharpice.top">博客</a>
     <a href="https://afdian.net/a/SharpIce">爱发电</a>
   </div>
 </div>
