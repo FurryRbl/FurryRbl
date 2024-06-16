@@ -8,7 +8,7 @@
   <div>
     <h2>GitHub 语言统计</h2>
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurryRbl&hide_border=true&layout=compact&langs_count=10&theme=ambient_gradient&card_width=480&locale=cn&exclude_repo=Shell_Hosts_Android,End,Chinese_software"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurryRbl&hide_border=true&layout=compact&langs_count=10&theme=ambient_gradient&card_width=480&locale=cn&exclude_repo=Shell_Hosts_Android,End,Chinese_software,Huawei_LON_Custom_kernel"
       alt="GitHub 语言统计" />
   </div>
 
