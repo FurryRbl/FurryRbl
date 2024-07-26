@@ -8,7 +8,7 @@
   <div>
     <h2>GitHub 语言统计</h2>
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurryRbl&hide_border=true&layout=compact&langs_count=10&theme=ambient_gradient&card_width=480&locale=cn&exclude_repo=Shell_Hosts_Android,End,Chinese_software,Huawei_LON_Custom_kernel"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurryRbl&hide_border=true&layout=compact&langs_count=10&theme=ambient_gradient&card_width=480&locale=cn&exclude_repo=Shell_Hosts_Android,End,Chinese_software"
       alt="GitHub 语言统计" />
   </div>
 
@@ -22,10 +22,10 @@
   <div>
     <h2>我使用的开发语言</h2>
     <img src="https://img.shields.io/badge/Java-21-blue?style=for-the-badge&logo=Java" alt="Java 21" />
-    <img src="https://img.shields.io/badge/CSharp-8.0-purple?style=for-the-badge&logo=CSharp" alt="CSharp 8.0" />
-    <img src="https://img.shields.io/badge/Python-3.12-yellow?style=for-the-badge&logo=Python" alt="Python 3.12" />
+    <img src="https://img.shields.io/badge/.NET_Core-8.0-purple?style=for-the-badge&logo=CSharp" alt=".NET 8.0" />
+    <img src="https://img.shields.io/badge/Python-3.12-yellow?style=for-the-badge&logo=Python" alt="Python 3.11.8" />
     <img src="https://img.shields.io/badge/TypeScript-cyan?style=for-the-badge&logo=TypeScript" alt="TypeScript-cyan" />
-    <img src="https://img.shields.io/badge/JavaScript-ECMAScript_2022-yellow?style=for-the-badge&logo=JavaScript" alt="JavaScript ECMAScript 2022" />
+    <img src="https://img.shields.io/badge/JavaScript-ECMAScript_ESNext-yellow?style=for-the-badge&logo=JavaScript" alt="JavaScript ECMAScript ESNext" />
   </div>
 
   <div>
@@ -63,7 +63,8 @@
   <div>
     <h2>相关链接</h2>
     <a href="https://sharpice.top">个人主页</a>
-    <a href="https://blog.sharpice.top">博客</a>
+    <a href="https://blog.sharpice.top">个人博客</a>
     <a href="https://afdian.net/a/SharpIce">爱发电</a>
+    <a href="https://ko-fi.com/S6S8L8OOP">Ko-fi</a>
   </div>
 </div>
