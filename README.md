@@ -21,5 +21,5 @@
 ## 🔗相关链接
 - ☁[个人主页](https://sharpice.top)
 - 📖[个人博客](https://blog.sharpice.top)
-- 💰️[爱发电](https://afdian.net/a/SharpIce)
+- 💰️[爱发电](https://ifdian.net/a/SharpIce)
 - 💰️[Ko-fi](https://ko-fi.com/S6S8L8OOP)
