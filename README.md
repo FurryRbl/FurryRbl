@@ -16,6 +16,8 @@
 - Java
 - Python
 - Lua
+- Kotlin（正在学习）
+- C（熟不起来一点）
 
 ### ⚡️技术框架
 
@@ -30,6 +32,9 @@
 - Vite.js
 - Gradle
 - Xmake
+- gulp.js
+- ESBuild
+- Rollup.js
 
 ### ✒️常用的 IDE/文本编辑器
 
