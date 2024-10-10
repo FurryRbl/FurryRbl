@@ -6,12 +6,37 @@
 
 ---
 
-## 🛠技术栈（前后顺序）
+## 🛠技术栈
 
-- 💻️技术栈：JavaScript ECMAScript | TypeScript | .NET Core 8.0 | Java 21 | Python 3.11 | Lua 5.4
-- ⚡️技术框架：Tailwindcss | Vue | Spring Boot（正在学习） | ASP.NET（正在学习）
-- ✨️构建工具：Webpack | Vite.js | Gradle | Xmake
-- ✒️我常用的 IDE/文本编辑器：Visual Studio Code | Visual Studio 2022 | IntelliJ IDEA（以及其的部分衍生版本） | NeoVim
+### 💻️语言
+
+- JavaScript
+- TypeScript
+- C#
+- Java
+- Python
+- Lua
+
+### ⚡️技术框架
+
+- Tailwind.css
+- Vue.js
+- Spring Boot（正在学习）
+- ASP.NET（正在学习）
+
+### ✨️构建工具
+
+- Webpack
+- Vite.js
+- Gradle
+- Xmake
+
+### ✒️常用的 IDE/文本编辑器
+
+- Visual Studio Code
+- Visual Studio
+- IntelliJ IDEA
+- NeoVim
 
 ---
 
