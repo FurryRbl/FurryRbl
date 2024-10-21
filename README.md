@@ -33,6 +33,7 @@
 - Gradle
 - Xmake
 - gulp.js
+- SWC
 - ESBuild
 - Rollup.js
 
