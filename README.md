@@ -21,10 +21,16 @@
 
 ### ⚡️技术框架
 
-- Tailwind.css
 - Vue.js
+- jQuery
 - Spring Boot（正在学习）
 - ASP.NET（正在学习）
+
+### 🌸CSS 框架
+
+- Tailwind.css
+- bootstrap
+- Bluma
 
 ### ✨️构建工具
 
