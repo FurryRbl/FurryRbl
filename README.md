@@ -16,14 +16,14 @@
 - Java
 - Python
 - Lua
-- Kotlin（正在学习）
+- Kotlin
 - C（熟不起来一点）
 
 ### ⚡️技术框架
 
 - Vue.js
 - jQuery
-- Spring Boot（正在学习）
+- Spring Boot（深度学习中，能根据文档实现）
 - ASP.NET（正在学习）
 
 ### 🌸CSS 框架
@@ -52,7 +52,7 @@
 
 ---
 
-## 📝GitHub 语言统计
+## 📝语言使用情况统计
 ![GitHub 语言统计](https://github-readme-stats.vercel.app/api/top-langs/?username=FurryRbl&hide_border=true&layout=compact&langs_count=10&theme=ambient_gradient&card_width=480&locale=cn&exclude_repo=Shell_Hosts_Android,End,Chinese_software)
 
 ## 🔗相关链接
