@@ -17,14 +17,14 @@
 - Python
 - Lua
 - Kotlin
-- C（熟不起来一点）
+- C（很少使用）
 
 ### ⚡️技术框架
 
 - Vue.js
 - jQuery
-- Spring Boot（深度学习中，能根据文档实现）
-- ASP.NET（正在学习）
+- Spring Boot（学习中）
+- ASP.NET（已荒废）
 
 ### 🌸CSS 框架
 
@@ -47,7 +47,7 @@
 
 - Visual Studio Code
 - Visual Studio
-- IntelliJ IDEA
+- IntelliJ IDEA（包括衍生版本）
 - NeoVim
 
 ---
