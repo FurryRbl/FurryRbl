@@ -13,24 +13,21 @@
 ### 💻️语言
 
 - JavaScript
-- TypeScript
-- C#
+- TypeScript（主力）
+- C#（辅助选手）
 - Java
 - Python
 - Lua
 - Kotlin
-- C（很少使用）
 
-### ⚡️技术框架
+### ⚡️前端技术框架
 
 - Vue.js
 - jQuery
-- Spring Boot（学习中）
-- ASP.NET（已荒废）
 
 ### 🌸CSS 框架
 
-- Tailwind.css
+- Tailwind.css（主力）
 - bootstrap
 - Bluma
 
@@ -39,11 +36,6 @@
 - Webpack
 - Vite.js
 - Gradle
-- Xmake
-- gulp.js
-- SWC
-- ESBuild
-- Rollup.js
 
 ### ✒️常用的 IDE/文本编辑器
 
@@ -51,6 +43,14 @@
 - Visual Studio
 - IntelliJ IDEA（包括衍生版本）
 - NeoVim
+
+---
+
+### 🔎我正在做的事
+
+- 📝 世界观项目创作
+- 🎮 游戏相关的研究
+- 🔖 本地化工作
 
 ---
 
