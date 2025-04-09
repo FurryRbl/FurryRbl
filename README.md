@@ -27,7 +27,7 @@
 
 ### 🌸CSS 框架
 
-- Tailwind.css（主力）
+- Tailwind.css
 - bootstrap
 - Bluma
 
