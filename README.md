@@ -15,10 +15,10 @@
 - JavaScript
 - TypeScript（主力）
 - C#（辅助选手）
-- Java
+- Java（咕咕咕）
 - Python
 - Lua
-- Kotlin
+- Kotlin（咕咕咕）
 
 ### ⚡️前端技术框架
 
@@ -28,8 +28,8 @@
 ### 🌸CSS 框架
 
 - Tailwind.css
-- bootstrap
-- Bluma
+- bootstrap（咕咕咕）
+- Bluma（咕咕咕）
 
 ### ✨️构建工具
 
