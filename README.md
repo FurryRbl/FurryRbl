@@ -4,7 +4,7 @@
 
 🧭我来自中国，我叫锐冰，也可以叫我锐冰龙，我的英文名是 SharpIce
 
-⚡️前端开发者一枚。基础设施开发者+1
+⚡️开源社区贡献者一枚
 
 ---
 
@@ -12,30 +12,32 @@
 
 ### 💻️语言
 
-- JavaScript
-- TypeScript（主力）
-- C#（辅助选手）
-- Java（咕咕咕）
-- Python
-- Lua
-- Kotlin（咕咕咕）
+- JavaScript          （主力）
+- TypeScript          （主力）
+- C#                  （辅助）
+- Java                （年久失修）
+- Python              （不想使用）
+- Lua                 （年久失修）
+- Kotlin              （学不起来）
 
 ### ⚡️前端技术框架
 
-- Vue.js
-- jQuery
+- Vue.js              （正在使用）
+- Astro               （正在使用）
+- jQuery              （年久失修）
 
 ### 🌸CSS 框架
 
-- Tailwind.css
-- bootstrap（咕咕咕）
-- Bluma（咕咕咕）
+- UnoCSS              （正在使用）
+- Bluma               （正在使用）
+- bootstrap           （已荒废）
+- Tailwind.css        （已荒废）
 
 ### ✨️构建工具
 
-- Webpack
-- Vite.js
-- Gradle
+- Webpack             （正在使用）
+- Vite.js             （已荒废）
+- Gradle              （年久失修）
 
 ### ✒️常用的 IDE/文本编辑器
 
