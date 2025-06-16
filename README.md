@@ -12,32 +12,36 @@
 
 ### 💻️语言
 
-- JavaScript          （主力）
-- TypeScript          （主力）
-- C#                  （辅助）
-- Java                （年久失修）
-- Python              （不想使用）
-- Lua                 （年久失修）
-- Kotlin              （学不起来）
+- JavaScript（主力）
+- TypeScript（主力）
+- C#（辅助）
+- Java（年久失修）
+- Python（不想使用）
+- Lua（年久失修）
+- Kotlin（学不起来）
 
 ### ⚡️前端技术框架
 
-- Vue.js              （正在使用）
-- Astro               （正在使用）
-- jQuery              （年久失修）
+- Vue（正在使用）
+- Astro（正在使用）
+- jQuery（年久失修）
 
 ### 🌸CSS 框架
 
-- UnoCSS              （正在使用）
-- Bluma               （正在使用）
-- bootstrap           （已荒废）
-- Tailwind.css        （已荒废）
+- UnoCSS（正在使用）
+- Bluma（正在使用）
+- bootstrap（已荒废）
+- Tailwind.css（已荒废）
 
 ### ✨️构建工具
 
-- Webpack             （正在使用）
-- Vite.js             （已荒废）
-- Gradle              （年久失修）
+- Webpack（正在使用）
+- Vite.js（已荒废）
+- Gradle（年久失修）
+
+### ❤️构建工具后端
+- esbuild（正在使用）
+- Rollup.js（年久失修）
 
 ### ✒️常用的 IDE/文本编辑器
 
